@@ -8,6 +8,4 @@ def array
   puts sum
 end
 
-
-
 array
